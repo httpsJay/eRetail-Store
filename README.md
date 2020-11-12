@@ -21,5 +21,4 @@ Requirements Conversation:
 
 7.  csv data will be used as Store related Meta-Data for Dashboard
 
-8. /api/status?jobid=  api will fetch information of the current status of a
-    job.
+8. /api/status?jobid=  api will fetch information of the current status of a job.
