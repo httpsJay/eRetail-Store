@@ -16,8 +16,7 @@ Requirements Conversation:
 
 5.  Download and Process images
 
-6. "After this the results are stored at an image level."
-    - Image Level data collection
+6. "After this the results are stored at an image level." - Image Level data collection
 
 7.  csv data will be used as Store related Meta-Data for Dashboard
 
